@@ -1,3 +1,5 @@
+cd ./
+
 # install packages
 npm run install-frontend
 
