@@ -229,6 +229,8 @@ POST /api/posts/:postId/comment – Add comment to post
 All protected routes require a valid authentication token.
 
 
+
+
 ▶️ How to Run the Project
 Prerequisites
 
@@ -242,6 +244,8 @@ npm installed
 Database configured (MongoDB / other as used)
 
 
+
+
 Steps to RUN
 # install packages
 npm run install-frontend
@@ -250,6 +254,8 @@ npm run install-frontend
 npm run start
 
 The server will start on the configured port (default mentioned in .env).
+
+
 
 👤 Author
 Alfez Khan
